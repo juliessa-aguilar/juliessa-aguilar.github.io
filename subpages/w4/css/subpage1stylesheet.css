@@ -1,0 +1,27 @@
+body {
+	 background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+	 overflow: hidden;
+	 height: 100vh;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+}
+.instructions{
+	text-align: center;
+	position: absolute;
+	top: 4%;
+	font-family: 'Courier New',  monospace;
+ 	font-size: 150%;
+ 	color: white;
+
+}
+.music{
+	width: 50%;
+	padding: 10px ;
+	margin: 0; 
+	font-family: Courier, monospace;
+	font-size: 25;
+	color: white;
+	position: absolute;
+	top: 90%;
+}

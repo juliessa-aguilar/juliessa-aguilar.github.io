@@ -1,0 +1,76 @@
+body {
+	margin: 25px;
+	background-image: url(../img/glitch.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.paragraph{
+	position: absolute;
+	top: 40%;
+	left: 5%;
+	width: 50%;
+	text-size-adjust: 80%;
+	background-color: #CC5500;
+	font-family: "Courier", monospace;
+	font-weight: bold;
+	color: whitesmoke;
+	transition: all 0.3s ease 0s;
+}
+.pic{
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	width: 25%;
+
+}
+.nav__links{
+	list-style: none;
+}
+.nav__links li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+.w1{
+	position: absolute;
+	right: 5%;
+	top: 10%;
+}
+.w2{
+	position: absolute;
+	right: 5%;
+	top: 25%;
+}
+.w3{
+	position: absolute;
+	right: 5%;
+	top: 40%;
+}
+.w4{
+	position: absolute;
+	right: 5%;
+	top: 55%;
+}
+
+.nav__links li a{
+	background-color: #CC5500;
+	font-family: "Courier", monospace;
+	font-weight: bold;
+	color: whitesmoke;
+	transition: all 0.3s ease 0s;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: none;
+}

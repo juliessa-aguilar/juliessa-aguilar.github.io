@@ -1,0 +1,7 @@
+body {
+	margin: 25px;
+	background-image: url(../gifs/nosignal.gif);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}

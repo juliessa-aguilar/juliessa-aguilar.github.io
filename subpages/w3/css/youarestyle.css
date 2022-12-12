@@ -1,0 +1,68 @@
+.parent{
+	background-image: url(../images/flowers.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.gayheart{
+	position: relative;
+	top: 10%;
+	left: 10%;
+}
+.hug{
+	position: relative;
+	top: 0%;
+	left: 60%;
+}
+.smiley{
+	position: relative;
+	top: 20%;
+	left: 35%;
+}
+.believe{
+	position: relative;
+	top: -90%;
+	left: 35%;
+	width: 10%;
+}
+.loved{
+	background-color: lightgreen;
+	padding: 0px ;
+	border: 5px dotted steelblue;
+	margin: 0; 
+	color: green;
+	position: absolute;
+	top: 215%;
+	left: 5%;
+	z-index: 3;
+}
+.broken{
+	background-color: floralwhite;
+	padding: 0px ;
+	border: 5px dashed lightpink;
+	margin: 0; 
+	text-align: center;
+	font-family:  impact;
+	font-size: 25;
+	color: lightpink;
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	width: 42%;
+	z-index: 2;
+
+}
+.alone{
+	background-color: deeppink;
+	padding: 0px ;
+	border: 5px solid lightpink;
+	margin: 0; 
+	text-align: center;
+	font-family:  impact;
+	font-size: 60;
+	color: lightpink;
+	position: absolute;
+	top: 90%;
+	left: 5%;
+	z-index: 5;
+}
