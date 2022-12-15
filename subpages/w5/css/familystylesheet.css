@@ -1,0 +1,49 @@
+body{
+	background-image: url(../img/background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.nav__links{
+	list-style: none;
+}
+.nav__links li{
+	display: inline-block;
+	padding: 0px 20px;
+}
+.nav__links li a{
+	background-color: whitesmoke;
+	font-family: "Courier", monospace;
+	color: blueviolet;
+	transition: all 0.3s ease 0s;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: none;
+}
+.bubbs{
+	position: absolute;
+	left: 5%;
+	top: 70%;
+}
+.momndad{
+	position: absolute;
+	left: 5%;
+	top: 80%;
+}
+.nananpapa{
+	position: absolute;
+	left: 5%;
+	top: 90%;
+}
