@@ -1,0 +1,51 @@
+body{
+	background: rgb(131,58,180);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #FEFBEA;
+}
+.a{
+	position: absolute;
+	top: 17%;
+	left: 15%;
+	width: 30%;
+}
+.b{
+	position: absolute;
+	top: 30%;
+	left: 59%;
+	width: 30%;
+}
+.box1{
+	position: absolute;
+	top: 70%;
+	left: 10%;
+	width: 40%;
+	background-color: saddlebrown;
+	text-align: center;
+}
+.box1text{
+	font-family: Didot, serif;
+	font-size: 40px;
+	color: #FEFBEA;
+}
+/* unvisited link */
+a:link {
+	text-decoration: none;
+  	color: none;
+}
+
+/* visited link */
+a:visited {
+  	color: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}	
+
+/* selected link */
+a:active {
+  	color: none;
+}
