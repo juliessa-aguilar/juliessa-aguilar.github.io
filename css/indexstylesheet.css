@@ -56,6 +56,11 @@ body {
 	right: 5%;
 	top: 70%;
 }
+.w6{
+	position: absolute;
+	right: 5%;
+	top: 85%;
+}
 
 .nav__links li a{
 	background-color: #CC5500;
