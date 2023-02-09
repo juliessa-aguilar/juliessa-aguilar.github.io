@@ -31,32 +31,32 @@ body {
 	display: inline-block;
 	padding: 0px 20px;
 }
-.w1{
+.w6{
 	position: absolute;
 	right: 5%;
 	top: 10%;
 }
-.w2{
+.w1{
 	position: absolute;
 	right: 5%;
 	top: 25%;
 }
-.w3{
+.w2{
 	position: absolute;
 	right: 5%;
 	top: 40%;
 }
-.w4{
+.w5{
 	position: absolute;
 	right: 5%;
 	top: 55%;
 }
-.w5{
+.w4{
 	position: absolute;
 	right: 5%;
 	top: 70%;
 }
-.w6{
+.w2{
 	position: absolute;
 	right: 5%;
 	top: 85%;
