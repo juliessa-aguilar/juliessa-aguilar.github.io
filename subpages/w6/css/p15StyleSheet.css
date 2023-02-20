@@ -10,9 +10,9 @@ body {
 .typewriter {
   position: absolute;
   color: #008F11;
-  width: 50%;
+  width: 17%;
   top: 45%;
-  left: 21%;
+  left: 42%;
   font-size: 190%;
   font-family: MatrixFont;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
@@ -28,7 +28,7 @@ body {
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width:50% }
+  to { width:17% }
 }
 
 /* The typewriter cursor effect */

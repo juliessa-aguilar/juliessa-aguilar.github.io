@@ -10,10 +10,10 @@ body {
 .typewriter {
   position: absolute;
   color: #008F11;
-  width: 50%;
+  width: 6%;
   top: 45%;
-  left: 21%;
-  font-size: 190%;
+  left: 50%;
+  font-size: 330%;
   font-family: MatrixFont;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .6em solid green; /* The typwriter cursor */
@@ -21,14 +21,14 @@ body {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   letter-spacing: .15em; /* Adjust as needed */
   animation: 
-    typing 3.5s steps(10, end),
+    typing 1.5s steps(1, end),
     blink-caret .5s step-end infinite;
 }
 
 /* The typing effect */
 @keyframes typing {
   from { width: 0 }
-  to { width:50% }
+  to { width:6% }
 }
 
 /* The typewriter cursor effect */
